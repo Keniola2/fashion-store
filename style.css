@@ -5,6 +5,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    
 }
 
 h3{
@@ -362,6 +363,9 @@ footer .right-footer {
     border-bottom: solid 2px black;
     padding-bottom: 10px;
 }
+.cart-header .column1{
+    margin-left: 10px;
+}
 .section .cart-items .cart-item{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -533,7 +537,7 @@ footer .right-footer {
     }
 /* ================new arrivals=============== */
 .section .new-arrivals{
-    height: 110vh;
+    height: 120vh;
     margin-top: 10px;
     padding-top: 10px;
 }
