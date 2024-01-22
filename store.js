@@ -9,7 +9,7 @@ const shirts = [
        "large"
       ] ,
       img1: "./image/louis-vuitton-embroidered-beads-cotton-t-shirt-Front view.jpg",
-      img2: "./image/louis-vuitton-embroidered-beads-cotton-t-shirt-worn view.jpg",
+      img2: "./image/louis-vuitton-embroidered-beads-cotton-t-shirt-Worn view.jpg",
     },
     {
       id: 1,
