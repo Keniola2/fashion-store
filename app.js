@@ -187,7 +187,7 @@ if (numberElement) {
     const cartData = JSON.parse(localStorage.getItem('cart')) || [];
    cartItemsEl.innerHTML = '';
       // Render the cart items
-      cartData.forEach((item,index) => {
+      cartData.forEach((item) => {
         console.log(item)
         cartItemsEl.innerHTML += `
           <div class="cart-item">
